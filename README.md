@@ -16,14 +16,6 @@ This Flower Shop eCommerce project is a web application designed to facilitate t
 3. Import the database using the provided SQL file.
 5. Open the project in your web browser.
 
-## Screenshots
-
-![Screenshot 1](path/to/screenshot1.png)
-Description of the screenshot.
-
-![Screenshot 2](path/to/screenshot2.png)
-Description of the screenshot.
-
 ## Contact
 
 If you have any questions or inquiries, you can reach me at angelgabgnzlz@gmail.com.
